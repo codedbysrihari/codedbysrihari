@@ -1,136 +1,104 @@
+<div align="center">
+
 # Hey, I'm Srihari 👋
 
-### Software Engineer • AI/ML • Full-Stack Developer • AI Instructor
+### Software Engineer · AI/ML · Full-Stack Developer · AI Instructor
+
+**Building software. Exploring AI. Teaching what I learn.**
 
 > **NOTHING IS IMPOSSIBLE.**
 
-I'm a Software Engineer and AI Instructor focused on building practical software, AI-powered systems, and full-stack applications.
+[![Portfolio](https://img.shields.io/badge/Portfolio-codedbysrihari.github.io-black?style=for-the-badge&logo=github)](https://codedbysrihari.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Srihari%20K-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/srihari-k-8275852a2/)
+[![Email](https://img.shields.io/badge/Email-Contact-black?style=for-the-badge&logo=gmail)](mailto:harikarthikselvam@gmail.com)
 
-I enjoy turning ideas into real products across **AI/ML, Computer Vision, Full-Stack Development, and Mobile Applications**.
-
----
-
-## 🚀 What I Do
-
-- 🤖 Build and integrate **AI/ML solutions** into real-world products
-- 💻 Develop **full-stack web and mobile applications**
-- 👁️ Explore **Computer Vision and intelligent systems**
-- 🔌 Design and build **REST APIs and backend systems**
-- 📱 Build cross-platform applications with **React Native**
-- 🎓 Teach and mentor students and working professionals in **AI & technology**
+</div>
 
 ---
 
-## 💼 Experience
+## About Me
 
-### Software Engineer — Agoura Math Circle
+I'm a **Software Engineer and AI Instructor** focused on building practical software and AI-powered solutions.
 
-Building software solutions for a global STEM education initiative, working across **mobile applications, backend systems, APIs, databases, and academic technology**.
+My work spans **Artificial Intelligence, Machine Learning, Computer Vision, Full-Stack Development, and Mobile Applications**.
 
-### AI Instructor — Agoura Math Circle
+I'm currently pursuing my **B.Tech in Computer Science & Engineering (AI/ML)** at **SRM Institute of Science and Technology, Chennai**, while working on real-world software products and teaching AI.
+
+---
+
+## What I Do
+
+| Software Engineering | Artificial Intelligence | Education |
+|---|---|---|
+| Full-Stack Development | Machine Learning | AI Instruction |
+| Mobile Applications | Computer Vision | Technical Mentoring |
+| REST APIs | Intelligent Systems | Practical Learning |
+| Backend Systems | AI-powered Products | Global Learners |
+
+---
+
+## Experience
+
+### Software Engineer · Agoura Math Circle
+
+Building software solutions for a global STEM education initiative across **mobile applications, backend systems, APIs, databases, and academic technology**.
+
+### AI Instructor · Agoura Math Circle
 
 Teaching **Artificial Intelligence and practical AI concepts** to students and working professionals globally.
 
-Previously taught **Mobile App Development** with a focus on practical, production-oriented development.
+Previously taught **Mobile App Development** with a focus on practical development and real-world applications.
 
-### Software Engineer — Romly
+### Software Engineer · Romly
 
-Contributing to real-world startup products, working across **software engineering, AI-powered features, full-stack development, and product development**.
+Working on real-world startup products across **software engineering, full-stack development, AI-powered features, and product development**.
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
-**Languages**
+### AI / Machine Learning
 
-`Python` `JavaScript` `TypeScript` `C#`
+`Python` `Machine Learning` `Computer Vision` `Reinforcement Learning`
 
-**AI / ML**
+### Development
 
-`Artificial Intelligence` `Machine Learning` `Computer Vision` `Reinforcement Learning`
+`React` `React Native` `TypeScript` `JavaScript` `C#`
 
-**Frontend**
-
-`React` `React Native` `HTML` `CSS`
-
-**Backend**
+### Backend
 
 `.NET Core` `FastAPI` `REST APIs`
 
-**Database**
+### Database & Tools
 
-`Microsoft SQL Server`
-
-**Tools**
-
-`Git` `GitHub` `Docker` `Figma`
+`Microsoft SQL Server` `Git` `GitHub` `Docker` `Figma`
 
 ---
 
-## 🔥 Featured Projects
+## Education
 
-### 🐍 RL Snake Agent
+**B.Tech — Computer Science & Engineering (AI/ML)**
 
-A reinforcement learning system where an AI agent learns to play Snake using **PPO and curriculum learning**.
-
-**Python • PyTorch • Stable-Baselines3 • FastAPI • React • WebSockets**
-
-### 🛡️ Agent Guard
-
-An AI-focused project exploring **intelligent agent safety, monitoring, and responsible AI systems**.
-
-**Python • AI/ML**
-
-### 📊 Student Attendance Management System
-
-A full-stack attendance platform designed for managing student attendance and academic data.
-
-**React • TypeScript • Google APIs**
-
-### ⛰️ Rockfall Prediction
-
-A machine-learning based project focused on predicting rockfall risks using data-driven approaches.
-
-**Machine Learning • JavaScript**
+SRM Institute of Science and Technology  
+Chennai, India
 
 ---
 
-## 🎓 Education
-
-**B.Tech — Computer Science & Engineering (AI/ML)**  
-SRM Institute of Science and Technology (SRMIST), Chennai
-
----
-
-## 📜 Certifications
-
-- IBM Certified — Artificial Intelligence
-- IBM AI & Machine Learning Certifications
-
----
-
-## 🌱 Currently
+## Currently
 
 - Building practical **AI-powered applications**
-- Exploring **Computer Vision & Machine Learning**
-- Improving **system design and backend architecture**
-- Building and shipping **real-world software products**
-- Teaching and sharing knowledge through AI education
+- Exploring **Machine Learning & Computer Vision**
+- Working on **full-stack and backend systems**
+- Improving **system design and software architecture**
+- Teaching **AI and technology**
+- Turning ideas into **real-world products**
 
 ---
 
-## 🌐 Connect With Me
+<div align="center">
 
-🌍 **Portfolio:** [codedbysrihari.github.io](https://codedbysrihari.github.io/)
+### Build · Learn · Teach · Impact
 
-💼 **LinkedIn:** [linkedin.com/in/srihari-k-8275852a2](https://www.linkedin.com/in/srihari-k-8275852a2/)
+**Nothing is impossible. 🚀**
 
-💻 **GitHub:** [github.com/codedbysrihari](https://github.com/codedbysrihari)
-
-📧 **Email:** harikarthikselvam@gmail.com
-
----
-
-### Build • Learn • Teach • Impact 🚀
-
-**Nothing is impossible.**
+</div>
